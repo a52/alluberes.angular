@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "alluberes.angular"
+  "defaultProject": "alluberes.angular",
+  "cli": {
+    "analytics": "3d34fd05-5ced-4f29-b326-ae39eafe6ee7"
+  }
 }
